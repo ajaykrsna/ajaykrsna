@@ -14,7 +14,7 @@ Current:
 
 Previous:
 
-- Assistant Course Instructor for [MME 268429: "Fundamentals of Deep Learning and TinyML"](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.hs-furtwangen.de/fileadmin/user_upload/fak_MME/Dokumente/Downloads/WPVs/de/Rueb_Fundamentals_of_deep_learning_and_TinyML_FH26849_engl.pdf)
+- Assistant Course Instructor for MME 268429: "Fundamentals of Deep Learning and TinyML" at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/)
 
 
 #### Github Stats 📊
