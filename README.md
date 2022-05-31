@@ -15,6 +15,7 @@ Current:
 Previous:
 
 - Assistant Course Instructor for **MME 268429: "Fundamentals of Deep Learning and TinyML"** at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/).
+- Master Thesis at @siemens 
 
 
 #### Github Stats 📊
