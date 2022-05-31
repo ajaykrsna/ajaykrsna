@@ -21,7 +21,7 @@ I'm Ajay Krishna, aka "5pacetime"💥 🕉️ </h2>
 - Bachelor Thesis at [Indian Space Reasearch Organization](https://www.isro.gov.in/) titled "Development of Low Noise L-Band Signal Source".
 
 
-### Stats: 📊
+### GitHub Stats: 📊
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykrsna&show_icons=true&count_private=true&show_icons=true&theme=codeSTACKr)
