@@ -18,7 +18,7 @@ Previous:
 - Master Thesis at [Siemens](https://www.siemens.com) titled “Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes".
 - Data Science Intern at [SICK Sensor Intelligence](https://www.sick.com).
 - Deep Learning Research Assistant under [Prof. Dr. Ulrich Mescheder](https://www.hs-furtwangen.de/personen/profil/180-ulrichmescheder/) from the Faculty of Mechanical and Medical Engineering, Hochschule Furtwangen University.
-- Bachelor Thesis at [ISRO](https://www.isro.gov.in/).
+- Bachelor Thesis at [Indian Space Reasearch Organization](https://www.isro.gov.in/) titled "Development of Low Noise L-Band Signal Source".
 
 
 #### Github Stats 📊
