@@ -13,6 +13,9 @@ An avid Machine Learning Engineer / Researcher, building cool deep neural networ
 
 Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
 
+Previous:
+
+
 #### Github Stats 📊
 
 
