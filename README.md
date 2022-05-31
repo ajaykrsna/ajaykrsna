@@ -15,7 +15,8 @@ Current:
 Previous:
 
 - Assistant Course Instructor for **MME 268429: "Fundamentals of Deep Learning and TinyML"** at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/).
-- Master Thesis at [Siemens, Munich](https://www.siemens.com/de/de.html) titled **“Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes"** 
+- Master Thesis at [Siemens](https://www.siemens.com) titled **“Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes"**.
+- Data Science Intern at [SICK Sensor Intelligence](https://www.sick.com).
 
 
 #### Github Stats 📊
