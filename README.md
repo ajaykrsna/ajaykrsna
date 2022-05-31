@@ -21,4 +21,3 @@ Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating
 
 [![Follow](https://img.shields.io/twitter/follow/ajaykrsna?style=social)](https://twitter.com/intent/follow?screen_name=ajaykrsna)   
 [![GitHub followers](https://img.shields.io/github/followers/ajaykrsna?style=social)](https://github.com/ajaykrsna)
-[![LinkedIn followers](https://img.shields.io/linkedin/follow/ajay-krishna-2031a5119?style=social)](https://www.linkedin.com/in/ajay-krishna-2031a5119/)
