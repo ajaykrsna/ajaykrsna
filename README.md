@@ -14,7 +14,7 @@ Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating
 
 #### Github Stats 📊
 
-<a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykrsna&show_icons=true&theme=dracula)
 </a>
 #techno #plantpower #spiritualalchemy
