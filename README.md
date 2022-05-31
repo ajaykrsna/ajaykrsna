@@ -9,9 +9,9 @@ I'm Ajay Krishna, aka "5pacetime"💥 🕉️ </h2>
 
 Current: 
 
-An avid Machine Learning Engineer / Researcher, building cool deep neural networks at [DigitalMedCare](https://digitalmedcare.de/) for Computer Vision and Virtual Reality based applications.
+- An avid Machine Learning Engineer / Researcher, building cool deep neural networks at [DigitalMedCare](https://digitalmedcare.de/) for Computer Vision and Virtual Reality based applications.
 
-Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
+- Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
 
 Previous:
 
