@@ -24,7 +24,7 @@ Previous:
 #### Github Stats 📊
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykrsna&show_icons=true&count_private=true&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykrsna&show_icons=true&count_private=true&show_icons=true&theme=aura)
 
 #techno #plantpower #spiritualalchemy
 
