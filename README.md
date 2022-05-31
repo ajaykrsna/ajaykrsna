@@ -14,8 +14,8 @@ Current:
 
 Previous:
 
-- Assistant Course Instructor for *MME 268429: "Fundamentals of Deep Learning and TinyML"* at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/).
-- Master Thesis at [Siemens](https://www.siemens.com) titled *“Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes"*.
+- Assistant Course Instructor for MME 268429: "Fundamentals of Deep Learning and TinyML" at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/).
+- Master Thesis at [Siemens](https://www.siemens.com) titled “Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes".
 - Data Science Intern at [SICK Sensor Intelligence](https://www.sick.com).
 - Deep Learning Research Assistant under [Prof. Dr. Ulrich Mescheder](https://www.hs-furtwangen.de/personen/profil/180-ulrichmescheder/) from the Faculty of Mechanical and Medical Engineering, Hochschule Furtwangen University.
 
