@@ -7,12 +7,12 @@ I'm Ajay Krishna, aka "5pacetime"💥 🕉️ </h2>
 [![Ajay Krishna Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajaykrsna)
 [![Ajay Krishna Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ajay_krsna)
 
-Current: 
+### Current: 
 
 - An avid Machine Learning Engineer / Researcher, building deep neural networks at [DigitalMedCare](https://digitalmedcare.de/) for Computer Vision and Virtual Reality based applications.
 - Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
 
-Previous:
+### Previous:
 
 - Assistant Course Instructor for MME 268429: "Fundamentals of Deep Learning and TinyML" at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/).
 - Master Thesis at [Siemens](https://www.siemens.com) titled “Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes".
