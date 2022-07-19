@@ -8,7 +8,7 @@ I'm Ajay Krishna, aka "5pacetime"💥 🕉️ </h2>
 [![Ajay Krishna Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ajay_krsna)
 
 ### Current: 
-- Leading a Swiss-based community, [Global AI Hub]([https://digitalmedcare.de/](https://globalaihub.com/10million-ai/), that aims to democratize AI/ML education for free to more than 10 million people around the world. 
+- Leading a Swiss-based community, [Global AI Hub](https://globalaihub.com/10million-ai/), that aims to democratize AI/ML education for free to more than 10 million people around the world. 
 - An avid Machine Learning Engineer / Researcher, building deep neural networks at [DigitalMedCare](https://digitalmedcare.de/) for Computer Vision and Virtual Reality based applications.
 - Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
 
