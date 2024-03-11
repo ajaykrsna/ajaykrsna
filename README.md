@@ -9,11 +9,12 @@ I'm Ajay Krishna, aka "5pacetime"💥 🕉️ </h2>
 
 ### Current: 
 - Leading a Swiss-based community, [Global AI Hub](https://globalaihub.com/10million-ai/), that aims to democratize free AI/ML education to 10 million people around the world as a social good initiative. 
-- An avid Data Scientist, building deep neural networks at [DigitalMedCare](https://digitalmedcare.de/) for Computer Vision and Virtual Reality based applications.
+
 - Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
 
 ### Previous:
 
+- Data Scientist at [DigitalMedCare](https://digitalmedcare.de/)
 - Assistant Course Instructor for MME 268429: "Fundamentals of Deep Learning and TinyML" at [Hochschule Furtwangen University](https://www.hs-furtwangen.de/).
 - Master Thesis at [Siemens](https://www.siemens.com) titled “Machine Learning based Optimization and Time-Series Analysis for Smart Manufacturing Processes".
 - Data Science Intern at [SICK Sensor Intelligence](https://www.sick.com).
