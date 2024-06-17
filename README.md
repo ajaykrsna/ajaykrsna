@@ -8,7 +8,7 @@ I'm Ajay Krishna, aka "5pacetime"💥 🕉️ </h2>
 [![Ajay Krishna Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ajay_krsna)
 
 ### Current: 
-- Data Scientist at [Universitätsklinikum Freiburg](https://www.uniklinik-freiburg.de/de.html) (ML research in Electrophysiology / Rhythmology)
+- Data Scientist at [Universitätsklinikum Freiburg](https://www.uniklinik-freiburg.de/de.html) (ML research on atrial cardiomyopathy)
 - Leading a Swiss-based community, [Global AI Hub](https://globalaihub.com/10million-ai/), that aims to democratize free AI/ML education to 10 million people around the world as a social good initiative. 
 - Part-time Techno DJ as ["5pacetime"](https://instagram.com/5pacetime) generating my own tracks using Artifical Intelligence! 🔥 🚀
 
